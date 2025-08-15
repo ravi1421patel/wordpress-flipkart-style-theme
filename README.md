@@ -20,22 +20,6 @@ A custom WordPress theme inspired by Flipkart, designed for WooCommerce stores.
 - My Account (`woocommerce/myaccount/my-account.php`)
 - Product Loop (`woocommerce/content-product.php`)
 
-## Screenshots
-
-**Homepage**  
-![Homepage](images/screenshot-home.png)
-
-**Cart Page**  
-![Cart](images/screenshot-cart.png)
-
-**Checkout Page**  
-![Checkout](images/screenshot-checkout.png)
-
-**My Account**  
-![My Account](images/screenshot-myaccount.png)
-
-*Note: Use placeholder images in the `images/` folder or replace with your own screenshots.*
-
 ## Installation
 
 1. Upload the theme folder to `wp-content/themes/`  
